@@ -1,15 +1,8 @@
-# PAGANTIS QA ASSIGNMENT
+# QA ASSIGNMENT
 
 ## About this test
 The purpose of this is to see how would you write test scenarios and automated them. Do it like it was for real. Follow your code conventions but make it coherent through all the code you write.
 
-
-## Feature 1 (Test automation functional testing of an HTML/JS Widget)
-
-Pagantis offers a product called Paga+Tarde that allows consumers to pay for goods and services in monthly installments. This product is integrated into different e-commerce merchants where the consumer can make a purchase financed after a paperless process.
-So, in order to the consumer evaluates which installment is better, we use a simulator that given the shopping cart amount and the interests then returns the total amount to be paid for the installment selected.
-
-To test this feature, please access to the folder `test1` and open the `index.html` file in your browser. Once it is done, we want you to automate functional testing using a BDD framework with underlying webdriver layer for all the cases that you think should be automated.
 
 ## Feature 2 (Test automation of a JSON API)
 
@@ -24,8 +17,8 @@ Well, previously you should run the API on your local machine so please follow t
 ### How to get running the API
 
 - Install node >= v8.0 in your system (https://www.nodejs.org)
-- Checkout the repository: `git clone https://github.com/digitalorigin/pg-qa-assignment`
-- Enter pg-qa-assignment/test2 folder: `cd pg-qa-assignment/test2`
+- Checkout the repository: `https://github.com/sarvesh371/node-api-service.git`
+- Enter pg-qa-assignment/test2 folder: `cd node-api-service/test2`
 - Run:
 ```bash
 ~ $ npm install
