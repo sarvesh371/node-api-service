@@ -18,7 +18,7 @@ Well, previously you should run the API on your local machine so please follow t
 
 - Install node >= v8.0 in your system (https://www.nodejs.org)
 - Checkout the repository: `https://github.com/sarvesh371/node-api-service.git`
-- Enter pg-qa-assignment/test2 folder: `cd node-api-service/test2`
+- Enter test2 folder: `cd node-api-service/test2`
 - Run:
 ```bash
 ~ $ npm install
